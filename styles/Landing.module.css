@@ -1,0 +1,26 @@
+.landing_container {
+  height: 80vh;
+  padding: 5vh 10vw;
+  text-align: center;
+  background-color: #fff3c9;
+}
+
+.landing {
+  position:relative;
+  height: 70vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 1rem;
+  background-color: transparent;
+  border: white solid 2px;
+  box-shadow: inset 0 2px 4px 0 #00000033, 0 2px 4px 0 #00000033;
+}
+
+.firstline { 
+  font-size: 3rem;
+}
+
+.secondline {
+  font-size: 4rem;
+}
